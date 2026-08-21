@@ -1,0 +1,13 @@
+[project]
+name = "resume-job-match"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pymupdf>=1.28.2",
+    "python-docx>=1.2.0",
+    "scikit-learn>=1.9.0",
+    "spacy>=3.8.15",
+    "streamlit>=1.62.0",
+]
